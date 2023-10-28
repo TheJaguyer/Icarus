@@ -1,0 +1,10 @@
+.primary {
+  font-size: large;
+  color: white;
+}
+
+.secondary {
+  font-size: small;
+  color: white;
+  align-self: flex-end;
+}

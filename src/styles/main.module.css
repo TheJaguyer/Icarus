@@ -1,0 +1,13 @@
+.main {
+  width: 100%;
+
+  padding-inline: 1rem;
+
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  gap: 1rem;
+  align-items: flex-start;
+
+  overflow: scroll;
+}

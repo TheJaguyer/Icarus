@@ -12,3 +12,16 @@
   background-attachment: fixed;
   overflow: hidden;
 }
+
+.fade {
+  animation: fadeout 0.3s linear forwards;
+}
+
+@keyframes fadeout {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}

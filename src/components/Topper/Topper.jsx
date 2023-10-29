@@ -1,7 +1,7 @@
-import styles from "../styles/topper.module.css";
-import Title from "../components/Title";
-import Spacer from "../components/Spacer";
-import PrimaryText from "./PrimaryText";
+import styles from "@/styles/topper.module.css";
+import Title from "@/components/Topper/Title";
+import Spacer from "@/components/Spacer";
+import PrimaryText from "@/components/PrimaryText";
 
 export default function Topper() {
   return (

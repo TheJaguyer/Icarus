@@ -1,17 +1,11 @@
-.primary {
-  font-size: large;
+.icarusmode {
+  font-size: medium;
   color: white;
-}
-
-.secondary {
-  font-size: small;
-  color: white;
-  align-self: flex-end;
 
   -webkit-mask: linear-gradient(-60deg, #000 30%, #0005, #000 70%) right/300%
     100%;
   background-repeat: no-repeat;
-  animation: shimmer 3s infinite;
+  animation: shimmer 2s infinite;
   max-width: 200px;
 }
 

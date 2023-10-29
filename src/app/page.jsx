@@ -3,8 +3,8 @@
 import { useState } from "react";
 
 import styles from "../styles/page.module.css";
-import Topper from "../components/Topper";
-import Stopper from "../components/Stopper";
+import Topper from "../components/Topper/Topper";
+import Stopper from "../components/Stopper/Stopper";
 import Main from "../components/Main";
 import Loading from "../components/LoadingScreen/Loading";
 

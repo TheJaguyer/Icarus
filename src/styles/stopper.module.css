@@ -6,6 +6,6 @@
   display: flex;
   flex-direction: column;
   flex-wrap: nowrap;
-  gap: 1rem;
+  gap: 0.25rem;
   align-items: flex-start;
 }

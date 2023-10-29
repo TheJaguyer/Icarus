@@ -26,7 +26,6 @@ export default function Main({ text }) {
       <Review quote={"he's okay"} person={"jorb"} />
       <Review quote={"he's okay"} person={"jorb"} />
       <Review quote={"he's okay"} person={"jorb"} />
-      <PrimaryText text={"It's time to touch the sun"}></PrimaryText>
     </div>
   );
 }

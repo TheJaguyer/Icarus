@@ -2,7 +2,7 @@
   font-size: medium;
   color: white;
 
-  -webkit-mask: linear-gradient(-60deg, #000 30%, #0005, #000 70%) right/300%
+  /* -webkit-mask: linear-gradient(-60deg, #000 30%, #0005, #000 70%) right/300%
     100%;
   background-repeat: no-repeat;
   animation: shimmer 2s infinite;
@@ -12,5 +12,5 @@
 @keyframes shimmer {
   100% {
     -webkit-mask-position: left;
-  }
+  } */
 }

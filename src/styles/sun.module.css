@@ -7,8 +7,10 @@
   background-image: url("/images/sun.png");
   background-size: contain;
 
-  transition: all 1200ms cubic-bezier(0.53, -0.43, 0.23, 0.85);
   overflow: hidden;
+
+  transition: all 1200ms cubic-bezier(0.53, -0.43, 0.23, 0.85);
+  cursor: pointer;
 }
 
 .center {
@@ -21,16 +23,15 @@
 .top {
   top: -12rem;
   left: calc(50% - 5rem);
-  transform: scale(0.5);
 }
 
 .start {
   top: calc(50% - 5rem);
   left: calc(50% - 5rem);
 }
+
 @keyframes pulse {
   0% {
-    transform: scale(1);
   }
 
   20% {

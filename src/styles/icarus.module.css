@@ -5,7 +5,9 @@
   position: absolute;
 
   background-image: url("/images/icarussmiling.png");
-  background-size: cover;
+
+  background-size: contain;
+  background-repeat: no-repeat;
   transform: rotate(-20deg);
 
   transition: all 1500ms cubic-bezier(0.43, -0.19, 0.23, 0.85);

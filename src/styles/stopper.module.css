@@ -9,3 +9,39 @@
   gap: 0.25rem;
   align-items: flex-start;
 }
+
+.secondary {
+  font-size: small;
+  color: white;
+  align-self: flex-end;
+
+  /* animation: pulse 3s infinite; */
+}
+
+.icarusmode {
+  font-size: medium;
+  color: white;
+  animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+  40% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.03);
+  }
+  60% {
+    transform: scale(1);
+  }
+
+  70% {
+    transform: scale(1.03);
+  }
+  80% {
+    transform: scale(1);
+  }
+}

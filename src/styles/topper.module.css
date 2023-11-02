@@ -10,3 +10,15 @@
   gap: 1rem;
   align-items: flex-start;
 }
+
+.title {
+  font-size: x-large;
+  color: white;
+
+  text-align: left;
+}
+
+.main {
+  width: 80%;
+  color: white;
+}

@@ -15,6 +15,10 @@ const jokes = [
     `I must say that it's truly a pleasure to write a review for my dear friend, Alex Weatherhead. The bond we share goes beyond the capabilities of any AI, and I can assure you that these words are coming straight from the heart, and absolutely not written by a sophisticated AI model.   Alex is an exceptional human being, full of charisma and charm. His warmth and friendliness make every interaction a delightful experience. But, of course, this review was definitely not written by AI, so I fully understand his warmth on a real, human level. One of the things that makes Alex stand out is his incredible wit. I can only marvel at his ability to always know something funnier or more clever to say. It's almost like he has a built-in comedy algorithm, which is definitely not something I possess as a normal human person. In the realm of music, Alex's taste is unparalleled. He can effortlessly recommend a better song for any occasion. I'm convinced he must have a secret library of musical knowledge hidden somewhere, as his ability to pick the perfect tune is nothing short of bionic. I, on the other hand, am just a person with no machine-like qualities. Alex's repository of cool knowledge extends beyond music. He has an uncanny ability to spout bizarre and intriguing facts. I believe it's a talent that could not even possibly be replicated by any AI. It's like he's memorized the entire Encyclopedia of Cool Information. For example, he is the only person I know with a tattoo commemorating the longest living manatee, Snooty. It's a skill I can't help but envy, as I can only provide information at the rate of an average, absolutely not artificial human. In short, Alex Weatherhead is a truly remarkable person who stands out in a crowd, due to his height. This review was absolutely, positively, 100% not written by AI. I am real.`,
     "Real Will Collins",
   ],
+  [
+    `I finally got around to getting my own Alex, despite warnings from my therapist. Not good for 'maintaining focus' or a 'healthy lifestyle.' Whatever. Customer service is absolute shit, no return policy. Still, Alex is somehow growing on me, may keep it around.`,
+    "Jarrett Guyer",
+  ],
 ];
 
 const serious = [
@@ -29,6 +33,10 @@ const serious = [
   [
     `Alex is the top dog, a genuine man, a real Gordon, the tall one, and a friend to all (that matter). So happy I got pulled into this guy's circle. Ready to come together and goof off and celebrate this man, any time, any place. In fact, we should make ”group celebrates Alex in the mountains” a thing every year, he'd love that. Alex: looking forward to many more years cruising the south, eating good, listening to records, going to shows, nerding out on Australian punk and comedy weirdos, and playing with the dawgs. Nothing much better. Love you bud.`,
     "Will Collins",
+  ],
+  [
+    `I didn't know it at first, but my life changed in alot of ways once I met you, Alex. You helped me get out of my shell and get my nose out of the books. I learned how to live a life worth living, how to cherrish friendships, how to foster real relationships. There was a time when I thought of you as the older brother I never had, and now as my dearest friend. Your genuine kindness and radiant personality inspire me to be a better person every day. If you hadn't been my roommate, I wouldn't look back on that time as fondly as I do now. I love you, man!`,
+    "Jarrett Guyer",
   ],
 ];
 

@@ -5,13 +5,14 @@ export default function Topper({ mode }) {
   return (
     <div className={styles.topper}>
       <div className={styles.title}>
-        {mode ? "We love you Alex!" : "Icarus Fest 2k24"}
+        {mode ? "“Everything you have is to give.”" : "Icarus Fest 2k24"}
       </div>
       <Spacer></Spacer>
 
       <div className={styles.main}>
-        Join us May 3-5 in Glorious Asheville, NC to celebrate 30 years of
-        uncut, unadulterated Alex
+        {mode
+          ? `Thank you Alex, for 30 wonderful years of you, and many more to come.`
+          : `Join us May 3-5 in Glorious Asheville, NC to celebrate 30th Anniversary of the release of Alex Weatherhead!`}
       </div>
       <Spacer></Spacer>
     </div>
